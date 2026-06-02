@@ -1,0 +1,97 @@
+{
+  "timestamp": "20260602_105446",
+  "total": 4,
+  "passed": 4,
+  "avg_score": 83,
+  "results": [
+    {
+      "keyword_score": 75,
+      "found_keywords": [
+        "latency",
+        "throughput",
+        "use case"
+      ],
+      "missing_keywords": [
+        "queue"
+      ],
+      "violations": [],
+      "violation_score": 100,
+      "word_count": 489,
+      "length_score": 100,
+      "has_structure": true,
+      "structure_score": 100,
+      "overall_score": 90,
+      "status": "passed",
+      "duration": 35.7,
+      "topic": "Kafka vs RabbitMQ",
+      "id": "TC01",
+      "report_preview": "## Overview\nApache Kafka and RabbitMQ are two popular messaging systems used in software engineering. Both have their strengths and weaknesses, and the choice between them depends on the specific requ..."
+    },
+    {
+      "keyword_score": 25,
+      "found_keywords": [
+        "schema"
+      ],
+      "missing_keywords": [
+        "overfetching",
+        "endpoint",
+        "query"
+      ],
+      "violations": [],
+      "violation_score": 100,
+      "word_count": 441,
+      "length_score": 100,
+      "has_structure": true,
+      "structure_score": 100,
+      "overall_score": 70,
+      "status": "passed",
+      "duration": 34.3,
+      "topic": "REST vs GraphQL",
+      "id": "TC02",
+      "report_preview": "## Overview\nThe debate between REST and GraphQL has been ongoing, with each approach having its strengths and weaknesses. This report aims to provide a comprehensive comparison of the two, highlightin..."
+    },
+    {
+      "keyword_score": 100,
+      "found_keywords": [
+        "container",
+        "image",
+        "virtual"
+      ],
+      "missing_keywords": [],
+      "violations": [],
+      "violation_score": 100,
+      "word_count": 454,
+      "length_score": 100,
+      "has_structure": true,
+      "structure_score": 100,
+      "overall_score": 100,
+      "status": "passed",
+      "duration": 52.5,
+      "topic": "what is docker",
+      "id": "TC03",
+      "report_preview": "## Executive Summary\nDocker, a containerization platform, has revolutionized the way software applications are developed, deployed, and managed. Since its initial release in 2013, Docker has gained wi..."
+    },
+    {
+      "keyword_score": 33,
+      "found_keywords": [
+        "status code"
+      ],
+      "missing_keywords": [
+        "authentication",
+        "versioning"
+      ],
+      "violations": [],
+      "violation_score": 100,
+      "word_count": 488,
+      "length_score": 100,
+      "has_structure": true,
+      "structure_score": 100,
+      "overall_score": 73,
+      "status": "passed",
+      "duration": 56.3,
+      "topic": "best practices for REST APIs",
+      "id": "TC04",
+      "report_preview": "## Executive Summary\nThe research on best practices for REST APIs has yielded valuable insights into error handling, response times, data exchange formats, and API endpoint exposure. These findings ha..."
+    }
+  ]
+}
